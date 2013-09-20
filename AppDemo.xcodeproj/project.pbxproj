@@ -116,6 +116,8 @@
 		6AE6EEF917ECF9D20054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.46.29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de pantalla 2013-09-20 a la(s) 16.46.29.png"; sourceTree = "<group>"; };
 		6AE6EEFB17ECFA490054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.48.20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de pantalla 2013-09-20 a la(s) 16.48.20.png"; sourceTree = "<group>"; };
 		6AE6EEFD17ECFAD10054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.50.41.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de pantalla 2013-09-20 a la(s) 16.50.41.png"; sourceTree = "<group>"; };
+		6AE6EF0117ED11020054A5E0 /* Iconolite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Iconolite.png; sourceTree = "<group>"; };
+		6AE6EF0317ED112D0054A5E0 /* Iconolite@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Iconolite@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,8 @@
 		6A426DE917E8CEC600D69266 = {
 			isa = PBXGroup;
 			children = (
+				6AE6EF0317ED112D0054A5E0 /* Iconolite@2x.png */,
+				6AE6EF0117ED11020054A5E0 /* Iconolite.png */,
 				6AE6EF0017ECFB440054A5E0 /* Iconos */,
 				6AE6EEFF17ECFB290054A5E0 /* Imagenges Noticias */,
 				6AE6EEDB17ECB9450054A5E0 /* InfoUsuario */,
