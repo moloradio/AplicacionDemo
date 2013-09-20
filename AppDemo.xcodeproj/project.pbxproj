@@ -24,6 +24,32 @@
 		6A426E1C17E8CEC700D69266 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A426DFB17E8CEC600D69266 /* CoreData.framework */; };
 		6A426E2417E8CEC700D69266 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6A426E2217E8CEC700D69266 /* InfoPlist.strings */; };
 		6A426E2717E8CEC700D69266 /* AppDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A426E2617E8CEC700D69266 /* AppDemoTests.m */; };
+		6A42701717E8CFE500D69266 /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A42701617E8CFE500D69266 /* FacebookSDK.framework */; };
+		6A42701A17E8D38400D69266 /* ViewControllerLogin.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A42701917E8D38400D69266 /* ViewControllerLogin.m */; };
+		6A42701D17E8D63B00D69266 /* ViewControllerContenidoAppDemo.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A42701C17E8D63B00D69266 /* ViewControllerContenidoAppDemo.m */; };
+		6A55939317EAB540006B5EFF /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A55939217EAB540006B5EFF /* Social.framework */; };
+		6A6CCC8E17E97B5600FFA2CA /* Twitter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A6CCC8D17E97B5600FFA2CA /* Twitter.framework */; };
+		6A6CCC9017E97E0A00FFA2CA /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A6CCC8F17E97E0A00FFA2CA /* Accounts.framework */; };
+		6AE6EED317EC9DB80054A5E0 /* vistaContenido1.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AE6EED217EC9DB80054A5E0 /* vistaContenido1.m */; };
+		6AE6EED617EC9E8B0054A5E0 /* vistaContenido2.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AE6EED517EC9E8B0054A5E0 /* vistaContenido2.m */; };
+		6AE6EED917ECA8F40054A5E0 /* vistaContenido3.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AE6EED817ECA8F40054A5E0 /* vistaContenido3.m */; };
+		6AE6EEDE17ECB9940054A5E0 /* vistaInfoUsuario.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AE6EEDD17ECB9940054A5E0 /* vistaInfoUsuario.m */; };
+		6AE6EEE117ECE8C80054A5E0 /* 99.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AE6EEDF17ECE8C80054A5E0 /* 99.png */; };
+		6AE6EEE217ECE8C80054A5E0 /* 111.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AE6EEE017ECE8C80054A5E0 /* 111.png */; };
+		6AE6EEE417ECE9160054A5E0 /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AE6EEE317ECE9160054A5E0 /* 11.png */; };
+		6AE6EEE617ECE9520054A5E0 /* 144.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AE6EEE517ECE9520054A5E0 /* 144.png */; };
+		6AE6EEE817ECED1B0054A5E0 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AE6EEE717ECED1B0054A5E0 /* 6.png */; };
+		6AE6EEEA17ECEE150054A5E0 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AE6EEE917ECEE150054A5E0 /* 2.png */; };
+		6AE6EEEC17ECF03F0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.03.10.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AE6EEEB17ECF03F0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.03.10.png */; };
+		6AE6EEEE17ECF59A0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.28.13.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AE6EEED17ECF59A0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.28.13.png */; };
+		6AE6EEF017ECF5D90054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.29.24.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AE6EEEF17ECF5D90054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.29.24.png */; };
+		6AE6EEF217ECF64A0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.31.12.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AE6EEF117ECF64A0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.31.12.png */; };
+		6AE6EEF417ECF6D60054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.33.24.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AE6EEF317ECF6D60054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.33.24.png */; };
+		6AE6EEF617ECF72E0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.35.10.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AE6EEF517ECF72E0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.35.10.png */; };
+		6AE6EEF817ECF91D0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.42.59.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AE6EEF717ECF91D0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.42.59.png */; };
+		6AE6EEFA17ECF9D20054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.46.29.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AE6EEF917ECF9D20054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.46.29.png */; };
+		6AE6EEFC17ECFA4A0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.48.20.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AE6EEFB17ECFA490054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.48.20.png */; };
+		6AE6EEFE17ECFAD20054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.50.41.png in Resources */ = {isa = PBXBuildFile; fileRef = 6AE6EEFD17ECFAD10054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.50.41.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +84,38 @@
 		6A426E2317E8CEC700D69266 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6A426E2517E8CEC700D69266 /* AppDemoTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDemoTests.h; sourceTree = "<group>"; };
 		6A426E2617E8CEC700D69266 /* AppDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDemoTests.m; sourceTree = "<group>"; };
+		6A42701617E8CFE500D69266 /* FacebookSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FacebookSDK.framework; sourceTree = "<group>"; };
+		6A42701817E8D38400D69266 /* ViewControllerLogin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerLogin.h; sourceTree = "<group>"; };
+		6A42701917E8D38400D69266 /* ViewControllerLogin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerLogin.m; sourceTree = "<group>"; };
+		6A42701B17E8D63B00D69266 /* ViewControllerContenidoAppDemo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerContenidoAppDemo.h; sourceTree = "<group>"; };
+		6A42701C17E8D63B00D69266 /* ViewControllerContenidoAppDemo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerContenidoAppDemo.m; sourceTree = "<group>"; };
+		6A55939217EAB540006B5EFF /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
+		6A6CCC8D17E97B5600FFA2CA /* Twitter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Twitter.framework; path = System/Library/Frameworks/Twitter.framework; sourceTree = SDKROOT; };
+		6A6CCC8F17E97E0A00FFA2CA /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = System/Library/Frameworks/Accounts.framework; sourceTree = SDKROOT; };
+		6AE6EED117EC9DB80054A5E0 /* vistaContenido1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = vistaContenido1.h; path = AppDemo/vistaContenido1.h; sourceTree = "<group>"; };
+		6AE6EED217EC9DB80054A5E0 /* vistaContenido1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = vistaContenido1.m; path = AppDemo/vistaContenido1.m; sourceTree = "<group>"; };
+		6AE6EED417EC9E8B0054A5E0 /* vistaContenido2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = vistaContenido2.h; path = AppDemo/vistaContenido2.h; sourceTree = "<group>"; };
+		6AE6EED517EC9E8B0054A5E0 /* vistaContenido2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = vistaContenido2.m; path = AppDemo/vistaContenido2.m; sourceTree = "<group>"; };
+		6AE6EED717ECA8F40054A5E0 /* vistaContenido3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = vistaContenido3.h; path = AppDemo/vistaContenido3.h; sourceTree = "<group>"; };
+		6AE6EED817ECA8F40054A5E0 /* vistaContenido3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = vistaContenido3.m; path = AppDemo/vistaContenido3.m; sourceTree = "<group>"; };
+		6AE6EEDC17ECB9940054A5E0 /* vistaInfoUsuario.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = vistaInfoUsuario.h; sourceTree = "<group>"; };
+		6AE6EEDD17ECB9940054A5E0 /* vistaInfoUsuario.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = vistaInfoUsuario.m; sourceTree = "<group>"; };
+		6AE6EEDF17ECE8C80054A5E0 /* 99.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 99.png; sourceTree = "<group>"; };
+		6AE6EEE017ECE8C80054A5E0 /* 111.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 111.png; sourceTree = "<group>"; };
+		6AE6EEE317ECE9160054A5E0 /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11.png; sourceTree = "<group>"; };
+		6AE6EEE517ECE9520054A5E0 /* 144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 144.png; sourceTree = "<group>"; };
+		6AE6EEE717ECED1B0054A5E0 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		6AE6EEE917ECEE150054A5E0 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		6AE6EEEB17ECF03F0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.03.10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de pantalla 2013-09-20 a la(s) 16.03.10.png"; sourceTree = "<group>"; };
+		6AE6EEED17ECF59A0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.28.13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de pantalla 2013-09-20 a la(s) 16.28.13.png"; sourceTree = "<group>"; };
+		6AE6EEEF17ECF5D90054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.29.24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de pantalla 2013-09-20 a la(s) 16.29.24.png"; sourceTree = "<group>"; };
+		6AE6EEF117ECF64A0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.31.12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de pantalla 2013-09-20 a la(s) 16.31.12.png"; sourceTree = "<group>"; };
+		6AE6EEF317ECF6D60054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.33.24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de pantalla 2013-09-20 a la(s) 16.33.24.png"; sourceTree = "<group>"; };
+		6AE6EEF517ECF72E0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.35.10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de pantalla 2013-09-20 a la(s) 16.35.10.png"; sourceTree = "<group>"; };
+		6AE6EEF717ECF91D0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.42.59.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de pantalla 2013-09-20 a la(s) 16.42.59.png"; sourceTree = "<group>"; };
+		6AE6EEF917ECF9D20054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.46.29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de pantalla 2013-09-20 a la(s) 16.46.29.png"; sourceTree = "<group>"; };
+		6AE6EEFB17ECFA490054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.48.20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de pantalla 2013-09-20 a la(s) 16.48.20.png"; sourceTree = "<group>"; };
+		6AE6EEFD17ECFAD10054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.50.41.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de pantalla 2013-09-20 a la(s) 16.50.41.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,10 +123,14 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6A55939317EAB540006B5EFF /* Social.framework in Frameworks */,
+				6A6CCC9017E97E0A00FFA2CA /* Accounts.framework in Frameworks */,
+				6A6CCC8E17E97B5600FFA2CA /* Twitter.framework in Frameworks */,
 				6A426DF617E8CEC600D69266 /* UIKit.framework in Frameworks */,
 				6A426DF817E8CEC600D69266 /* Foundation.framework in Frameworks */,
 				6A426DFA17E8CEC600D69266 /* CoreGraphics.framework in Frameworks */,
 				6A426DFC17E8CEC600D69266 /* CoreData.framework in Frameworks */,
+				6A42701717E8CFE500D69266 /* FacebookSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -89,6 +151,10 @@
 		6A426DE917E8CEC600D69266 = {
 			isa = PBXGroup;
 			children = (
+				6AE6EF0017ECFB440054A5E0 /* Iconos */,
+				6AE6EEFF17ECFB290054A5E0 /* Imagenges Noticias */,
+				6AE6EEDB17ECB9450054A5E0 /* InfoUsuario */,
+				6AE6EEDA17ECB9170054A5E0 /* VistasCanales */,
 				6A426DFD17E8CEC600D69266 /* AppDemo */,
 				6A426E1F17E8CEC700D69266 /* AppDemoTests */,
 				6A426DF417E8CEC600D69266 /* Frameworks */,
@@ -108,6 +174,10 @@
 		6A426DF417E8CEC600D69266 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				6A55939217EAB540006B5EFF /* Social.framework */,
+				6A6CCC8F17E97E0A00FFA2CA /* Accounts.framework */,
+				6A6CCC8D17E97B5600FFA2CA /* Twitter.framework */,
+				6A42701617E8CFE500D69266 /* FacebookSDK.framework */,
 				6A426DF517E8CEC600D69266 /* UIKit.framework */,
 				6A426DF717E8CEC600D69266 /* Foundation.framework */,
 				6A426DF917E8CEC600D69266 /* CoreGraphics.framework */,
@@ -122,8 +192,11 @@
 			children = (
 				6A426E0617E8CEC600D69266 /* AppDelegate.h */,
 				6A426E0717E8CEC600D69266 /* AppDelegate.m */,
-				6A426E0F17E8CEC600D69266 /* AppDemo.xcdatamodeld */,
 				6A426DFE17E8CEC600D69266 /* Supporting Files */,
+				6A42701817E8D38400D69266 /* ViewControllerLogin.h */,
+				6A42701917E8D38400D69266 /* ViewControllerLogin.m */,
+				6A42701B17E8D63B00D69266 /* ViewControllerContenidoAppDemo.h */,
+				6A42701C17E8D63B00D69266 /* ViewControllerContenidoAppDemo.m */,
 			);
 			path = AppDemo;
 			sourceTree = "<group>";
@@ -131,6 +204,7 @@
 		6A426DFE17E8CEC600D69266 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6A426E0F17E8CEC600D69266 /* AppDemo.xcdatamodeld */,
 				6A426DFF17E8CEC600D69266 /* AppDemo-Info.plist */,
 				6A426E0017E8CEC600D69266 /* InfoPlist.strings */,
 				6A426E0317E8CEC600D69266 /* main.m */,
@@ -159,6 +233,58 @@
 				6A426E2217E8CEC700D69266 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6AE6EEDA17ECB9170054A5E0 /* VistasCanales */ = {
+			isa = PBXGroup;
+			children = (
+				6AE6EED117EC9DB80054A5E0 /* vistaContenido1.h */,
+				6AE6EED217EC9DB80054A5E0 /* vistaContenido1.m */,
+				6AE6EED417EC9E8B0054A5E0 /* vistaContenido2.h */,
+				6AE6EED517EC9E8B0054A5E0 /* vistaContenido2.m */,
+				6AE6EED717ECA8F40054A5E0 /* vistaContenido3.h */,
+				6AE6EED817ECA8F40054A5E0 /* vistaContenido3.m */,
+			);
+			name = VistasCanales;
+			sourceTree = "<group>";
+		};
+		6AE6EEDB17ECB9450054A5E0 /* InfoUsuario */ = {
+			isa = PBXGroup;
+			children = (
+				6AE6EEDC17ECB9940054A5E0 /* vistaInfoUsuario.h */,
+				6AE6EEDD17ECB9940054A5E0 /* vistaInfoUsuario.m */,
+			);
+			name = InfoUsuario;
+			sourceTree = "<group>";
+		};
+		6AE6EEFF17ECFB290054A5E0 /* Imagenges Noticias */ = {
+			isa = PBXGroup;
+			children = (
+				6AE6EEFD17ECFAD10054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.50.41.png */,
+				6AE6EEFB17ECFA490054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.48.20.png */,
+				6AE6EEF917ECF9D20054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.46.29.png */,
+				6AE6EEF717ECF91D0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.42.59.png */,
+				6AE6EEF517ECF72E0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.35.10.png */,
+				6AE6EEF317ECF6D60054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.33.24.png */,
+				6AE6EEF117ECF64A0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.31.12.png */,
+				6AE6EEEF17ECF5D90054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.29.24.png */,
+				6AE6EEED17ECF59A0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.28.13.png */,
+				6AE6EEEB17ECF03F0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.03.10.png */,
+			);
+			name = "Imagenges Noticias";
+			sourceTree = "<group>";
+		};
+		6AE6EF0017ECFB440054A5E0 /* Iconos */ = {
+			isa = PBXGroup;
+			children = (
+				6AE6EEE917ECEE150054A5E0 /* 2.png */,
+				6AE6EEE717ECED1B0054A5E0 /* 6.png */,
+				6AE6EEE517ECE9520054A5E0 /* 144.png */,
+				6AE6EEE317ECE9160054A5E0 /* 11.png */,
+				6AE6EEDF17ECE8C80054A5E0 /* 99.png */,
+				6AE6EEE017ECE8C80054A5E0 /* 111.png */,
+			);
+			name = Iconos;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -215,6 +341,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				he,
 			);
 			mainGroup = 6A426DE917E8CEC600D69266;
 			productRefGroup = 6A426DF317E8CEC600D69266 /* Products */;
@@ -236,6 +363,22 @@
 				6A426E0A17E8CEC600D69266 /* Default.png in Resources */,
 				6A426E0C17E8CEC600D69266 /* Default@2x.png in Resources */,
 				6A426E0E17E8CEC600D69266 /* Default-568h@2x.png in Resources */,
+				6AE6EEE117ECE8C80054A5E0 /* 99.png in Resources */,
+				6AE6EEE217ECE8C80054A5E0 /* 111.png in Resources */,
+				6AE6EEE417ECE9160054A5E0 /* 11.png in Resources */,
+				6AE6EEE617ECE9520054A5E0 /* 144.png in Resources */,
+				6AE6EEE817ECED1B0054A5E0 /* 6.png in Resources */,
+				6AE6EEEA17ECEE150054A5E0 /* 2.png in Resources */,
+				6AE6EEEC17ECF03F0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.03.10.png in Resources */,
+				6AE6EEEE17ECF59A0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.28.13.png in Resources */,
+				6AE6EEF017ECF5D90054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.29.24.png in Resources */,
+				6AE6EEF217ECF64A0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.31.12.png in Resources */,
+				6AE6EEF417ECF6D60054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.33.24.png in Resources */,
+				6AE6EEF617ECF72E0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.35.10.png in Resources */,
+				6AE6EEF817ECF91D0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.42.59.png in Resources */,
+				6AE6EEFA17ECF9D20054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.46.29.png in Resources */,
+				6AE6EEFC17ECFA4A0054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.48.20.png in Resources */,
+				6AE6EEFE17ECFAD20054A5E0 /* Captura de pantalla 2013-09-20 a la(s) 16.50.41.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,6 +416,12 @@
 				6A426E0417E8CEC600D69266 /* main.m in Sources */,
 				6A426E0817E8CEC600D69266 /* AppDelegate.m in Sources */,
 				6A426E1117E8CEC700D69266 /* AppDemo.xcdatamodeld in Sources */,
+				6A42701A17E8D38400D69266 /* ViewControllerLogin.m in Sources */,
+				6A42701D17E8D63B00D69266 /* ViewControllerContenidoAppDemo.m in Sources */,
+				6AE6EED317EC9DB80054A5E0 /* vistaContenido1.m in Sources */,
+				6AE6EED617EC9E8B0054A5E0 /* vistaContenido2.m in Sources */,
+				6AE6EED917ECA8F40054A5E0 /* vistaContenido3.m in Sources */,
+				6AE6EEDE17ECB9940054A5E0 /* vistaInfoUsuario.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -373,6 +522,11 @@
 		6A426E2B17E8CEC700D69266 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/FacebookSDK\"",
+					"\"$(SRCROOT)\"",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AppDemo/AppDemo-Prefix.pch";
 				INFOPLIST_FILE = "AppDemo/AppDemo-Info.plist";
@@ -384,6 +538,11 @@
 		6A426E2C17E8CEC700D69266 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/FacebookSDK\"",
+					"\"$(SRCROOT)\"",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AppDemo/AppDemo-Prefix.pch";
 				INFOPLIST_FILE = "AppDemo/AppDemo-Info.plist";
@@ -445,6 +604,7 @@
 				6A426E2C17E8CEC700D69266 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6A426E2D17E8CEC700D69266 /* Build configuration list for PBXNativeTarget "AppDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -453,6 +613,7 @@
 				6A426E2F17E8CEC700D69266 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
